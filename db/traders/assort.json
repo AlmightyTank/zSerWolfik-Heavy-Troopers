@@ -1,0 +1,87 @@
+{
+	"traderId": "5935c25fb3acc3127c3d8cd9",
+	"assorts": {
+		"items": [
+			{
+				"_id": "6753b339cec7fc449f055440",
+				"_tpl": "6753b339cec7fc449f055440",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999
+				}
+			},
+			{
+				"_id": "6753b339cec7fc449f055441",
+				"_tpl": "6753b339cec7fc449f055441",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999
+				}
+			},
+			{
+				"_id": "6753b339cec7fc449f055442",
+				"_tpl": "6753b339cec7fc449f055442",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999
+				}
+			},
+			{
+				"_id": "6753b339cec7fc449f055443",
+				"_tpl": "6753b339cec7fc449f055443",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999999
+				}
+			}
+		],
+		"barter_scheme": {
+			"6753b339cec7fc449f055440": [
+				[
+					{
+						"count": 3500,
+						"_tpl": "5696686a4bdc2da3298b456a"
+					}
+				]
+			],
+			"6753b339cec7fc449f055441": [
+				[
+					{
+						"count": 900,
+						"_tpl": "5696686a4bdc2da3298b456a"
+					}
+				]
+			],
+			"6753b339cec7fc449f055442": [
+				[
+					{
+						"count": 1800,
+						"_tpl": "5696686a4bdc2da3298b456a"
+					}
+				]
+			],
+			"6753b339cec7fc449f055443": [
+				[
+					{
+						"count": 1600,
+						"_tpl": "5696686a4bdc2da3298b456a"
+					}
+				]
+			]
+		},
+		"loyal_level_items": {
+			"6753b339cec7fc449f055440": 4,
+			"6753b339cec7fc449f055441": 3,
+			"6753b339cec7fc449f055442": 3,
+			"6753b339cec7fc449f055443": 3
+		}
+	}
+}
